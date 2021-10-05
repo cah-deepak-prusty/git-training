@@ -1,0 +1,4 @@
+# put here the files to ignore for the git add and commit
+
+### macOS ###
+*.DS_Store
